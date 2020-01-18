@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-src/credentials/*
+src/credentials/*.json
 
 .gitkeep
 
