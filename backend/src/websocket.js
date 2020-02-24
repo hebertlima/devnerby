@@ -18,7 +18,7 @@ exports.setupWebsocket = (server) => {
                 longitude: Number(longitude),
             },
             techs: parseStringAsArray(techs)
-        });        
+        });
     });
 }
 

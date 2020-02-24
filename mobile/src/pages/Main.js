@@ -59,7 +59,7 @@ export default function Main({ navigation }) {
                 techs
             }
         });
-
+       
         setDevs(response.data.devs);
         setupWebSocket();
     }
